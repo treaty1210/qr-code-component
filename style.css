@@ -46,13 +46,15 @@ body {
 }
 
 .topText {
-    font-weight: 600;
-    color: rgb(24, 58, 88);
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
     font-size: 1.3rem;
     text-align: center;
 }
 
 .botText {
-    color: rgb(170, 186, 201);
+    color: hsl(220, 15%, 55%);
     text-align: center;
+    font-size: 15px;
+    font-weight: 400;
 }
